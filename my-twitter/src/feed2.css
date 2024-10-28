@@ -1,0 +1,12 @@
+#display_user{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#UserSearch{
+    background-color: rgb(255, 0, 0);
+}
+.retweet-icon{
+    background-color: red;
+    
+}
